@@ -1,0 +1,41 @@
+h1{
+    color: rgba(43, 138, 220, 0.975);
+}
+.first-section{
+background-color: rgb(23, 27, 43);
+}
+.footer{
+    background-color: rgb(165, 165, 165);
+}
+#first{
+    color: #1f2937;
+}
+#second{
+    font-size: 48px;
+    color: #F9FAF8;
+}
+#third{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+#fourth{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+#fifth{
+    color: #3882F6;
+}
+#sixth{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bold;
+}
+#seventh{
+    color: #E5E7EB;
+}
+#eight{
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1F2937;
+}
